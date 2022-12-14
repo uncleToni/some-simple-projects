@@ -18,13 +18,13 @@ body {
 .container {
   width: 100%;
   display: flex;
-  padding: 0px 20px;
+  padding: 0 1.25em;
 }
 
 .slide {
   height: 80vh;
-  border-radius: 20px;
-  margin: 10px;
+  border-radius: 1.25em;
+  margin: 0.625rem;
   cursor: pointer;
   color: #fff;
   flex: 1;
@@ -37,7 +37,7 @@ body {
 
 .slide h3 {
   position: absolute;
-  font-size: 24px;
+  font-size: 1.5rem;
   bottom: 20px;
   left: 20px;
   margin: 0;

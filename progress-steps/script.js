@@ -1,3 +1,7 @@
+
+//На подумать: сделать переключение кружков, как в предыдущем примере
+//нажатием на сам кружок и заполнять все остальные кружки до нажатого
+
 const progress = document.getElementById('progress');
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
